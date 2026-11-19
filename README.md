@@ -4,8 +4,8 @@ A mini Facebook-style marketplace. Browse listings, post your own with a photo, 
 
 ## Live demo
 
-- Production: _added after deployment_
-- Repository: _added after publication_
+- Production: https://marketplace-nextjs-wheat.vercel.app
+- Repository: https://github.com/zinfotech1996-ui/marketplace-nextjs
 
 ## Features
 
