@@ -56,7 +56,7 @@ export function TopBar() {
 
         <Link
           href="/sell"
-          className="flex h-10 shrink-0 items-center gap-1.5 rounded-full bg-fb-blue px-4 text-[14px] font-semibold text-white shadow-sm transition-all duration-200 hover:scale-105 hover:bg-fb-blue-dark hover:shadow-md active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-fb-blue/40"
+          className="flex h-10 shrink-0 items-center gap-1.5 rounded-full bg-fb-blue-dark px-4 text-[14px] font-semibold text-white shadow-sm transition-all duration-200 hover:scale-105 hover:bg-[#1565c0] hover:shadow-md active:scale-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-fb-blue/40"
         >
           <span aria-hidden="true" className="text-base leading-none">
             +

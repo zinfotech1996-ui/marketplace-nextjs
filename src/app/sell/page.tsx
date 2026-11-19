@@ -236,7 +236,7 @@ export default function SellPage() {
           <Button
             type="submit"
             disabled={submitting}
-            className="h-11 flex-1 rounded-full bg-fb-blue text-[15px] font-semibold text-white hover:bg-fb-blue-dark"
+            className="h-11 flex-1 rounded-full bg-fb-blue-dark text-[15px] font-semibold text-white hover:bg-[#1565c0]"
           >
             {submitting ? (
               <>

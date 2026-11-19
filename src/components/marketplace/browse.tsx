@@ -166,7 +166,7 @@ export function Browse() {
             </p>
             <Link
               href="/sell"
-              className="mt-2 rounded-full bg-fb-blue px-5 py-2 text-[14px] font-semibold text-white hover:bg-fb-blue-dark"
+              className="mt-2 rounded-full bg-fb-blue-dark px-5 py-2 text-[14px] font-semibold text-white hover:bg-[#1565c0]"
             >
               Create a listing
             </Link>

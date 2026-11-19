@@ -24,7 +24,7 @@ export function CategoryTabs({
             className={cn(
               "flex shrink-0 items-center gap-1.5 rounded-full border px-3 py-1.5 text-[13px] font-medium transition-all duration-150 hover:scale-105 active:scale-95",
               active
-                ? "border-fb-blue bg-fb-blue text-white"
+                ? "border-fb-blue-dark bg-fb-blue-dark text-white"
                 : "border-fb-border bg-white text-fb-ink hover:bg-fb-secondary",
             )}
           >

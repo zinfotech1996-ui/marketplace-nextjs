@@ -194,7 +194,7 @@ function ListingDetail() {
               <Button
                 type="button"
                 onClick={() => setDialogOpen(true)}
-                className="mt-4 h-11 w-full rounded-full bg-fb-blue text-[15px] font-semibold text-white hover:bg-fb-blue-dark"
+                className="mt-4 h-11 w-full rounded-full bg-fb-blue-dark text-[15px] font-semibold text-white hover:bg-[#1565c0]"
               >
                 Message Seller
               </Button>
